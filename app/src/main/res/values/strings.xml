@@ -9,9 +9,9 @@
     <string name="followers" translatable="true">Followers</string>
     <string name="following" translatable="true">Following</string>
 
-    <string name="search_message" translatable="true">Find Your Favorite User</string>
-    <string name="search_hint" translatable="true">Looking For Who?</string>
-    <string name="user_not_found" translatable="true">User Not Found :(</string>
+    <string name="search_message" translatable="true">Search GitHub Users</string>
+    <string name="search_hint" translatable="true">Your search?</string>
+    <string name="user_not_found" translatable="true">GitHub user not found</string>
     <string name="followers_not_found" translatable="true">%s Has No Followers</string>
     <string name="following_not_found" translatable="true">%s Does Not Follow Anyone</string>
     <string name="languages" translatable="true">Languages</string>

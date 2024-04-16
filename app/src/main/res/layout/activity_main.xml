@@ -9,13 +9,13 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
-        android:elevation="8dp">
+        android:layout_margin="10dp"
+        android:elevation="6dp">
         <androidx.appcompat.widget.SearchView
             android:id="@+id/search_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"/>
+            android:layout_margin="10dp"/>
     </androidx.cardview.widget.CardView>
 
 
