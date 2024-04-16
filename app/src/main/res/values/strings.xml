@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyHubGit</string>
+
+    <string name="username" translatable="true">Username</string>
+    <string name="name" translatable="true">Name</string>
+    <string name="location" translatable="true">Location</string>
+    <string name="company" translatable="true">Company</string>
+    <string name="repository" translatable="true">Repository</string>
+    <string name="followers" translatable="true">Followers</string>
+    <string name="following" translatable="true">Following</string>
+
+    <string name="search_message" translatable="true">Find Your Favorite User</string>
+    <string name="search_hint" translatable="true">Looking For Who?</string>
+    <string name="user_not_found" translatable="true">User Not Found :(</string>
+    <string name="followers_not_found" translatable="true">%s Has No Followers</string>
+    <string name="following_not_found" translatable="true">%s Does Not Follow Anyone</string>
+    <string name="languages" translatable="true">Languages</string>
+    <string name="favorite" translatable="true">Favorite</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="dark_mode" translatable="true">Dark Mode</string>
+    <string name="share_button">share_button</string>
+</resources>
